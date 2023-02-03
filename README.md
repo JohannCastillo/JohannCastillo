@@ -9,7 +9,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src = "https://laravel.com/img/logomark.min.svg" alt="" width = "35" height="35"/>
    <img src="https://laravel.com/img/logotype.min.svg" title="Laravel"  alt="Laravel" width="40" height="40"/> &nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://git-scm.com/images/logo@2x.png" title="Git" alt="Git" width="50" height="30"/>
 </div>
 
 ### ⚡ Stats
