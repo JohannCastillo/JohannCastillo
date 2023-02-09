@@ -13,7 +13,8 @@
 ### ⚡ Stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohannCastillo&show_icons=true&hide=stars&theme=transparent)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannCastillo&theme=tokyonight) -->
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannCastillo&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
