@@ -1,3 +1,9 @@
+> ## About Me
+> 👋 Hi, I’m Johann Castillo. I am currently studying Systems Engineering at the National University of Trujillo in Peru
+>
+> 👀  I have a keen interest in full-stack web development and mobile application development.
+
+
 ### :hammer_and_wrench: Languages and Tools
 ---
 <div>
